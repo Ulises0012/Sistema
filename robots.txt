@@ -1,0 +1,24 @@
+User-agent: *
+
+Allow: /mi-directorio/mi-archivo.php
+
+Allow: /attendance/
+Allow: /css/
+Allow: /fonts/
+Allow: /images/
+Allow: /users/
+Allow: /js/
+Allow: /modules/
+Allow: /administratives/
+Allow: /attendance/
+Allow: /careers/
+Allow: /groups/
+Allow: /login/
+Allow: /school_period/
+Allow: /school_periods/
+Allow: /sections/
+Allow: /students/
+Allow: /subjects/
+Allow: /teachers/
+Allow: /users/
+Allow: /user/
